@@ -1,16 +1,15 @@
 # Lucas Barbosa
 
-**Backend & Automação · São Paulo, Brasil**
+**Desenvolvedor backend** focado em automação e integração de sistemas.
+Projetos em produção, não em tutorial. Ainda aprendendo.
 
-Construo sistemas que rodam sozinhos.
+São Paulo, Brasil
 
 ---
 
 ### Stack
 
-`TypeScript` `JavaScript` `Python` `SQL`
-`Node.js` `PostgreSQL` `REST & Webhooks`
-`Model Context Protocol` `Linux` `systemd` `Git`
+`JavaScript / TypeScript` `Node.js` `Python` `SQL`
 
 ### Repositórios
 
@@ -18,4 +17,4 @@ Construo sistemas que rodam sozinhos.
 
 ### Contato
 
-[![E-mail](https://img.shields.io/badge/E--mail-contato-24292e?style=flat-square&logo=gmail&logoColor=white)](mailto:lucasgabrielbarbosa84@gmail.com)
+**[Preencher formulário de contato →](https://forms.gle/Uc9jnRkfZX61poNP9)**
