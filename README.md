@@ -1,12 +1,14 @@
 # Lucas Barbosa
 
-Desenvolvedor backend em São Paulo. Construo automações, integrações de marketplaces e ferramentas para agentes de IA usadas em operações reais, com revisão humana nas ações sensíveis.
+Sou analista de ecommerce e desenvolvedor em São Paulo. Construo sistemas para gestão de ecommerce, integrações de marketplaces e automação de processos. Também desenvolvo ferramentas para agentes de IA, com foco em continuidade de contexto, organização de tarefas e histórico das ações.
+
+**[Conheça meu portfólio →](https://slayer1dev.github.io/)**
 
 ### Projetos públicos
 
-- **[agent-board](https://github.com/Slayer1Dev/agent-board)** — quadro Kanban para agentes de IA, com servidor MCP, API REST e histórico de alterações.
+- **[agent-board](https://github.com/Slayer1Dev/agent-board)** — quadro Kanban compartilhado por pessoas e agentes de IA, com MCP, API REST, CLI e histórico com autoria.
 - **[Arquivo Seguro](https://github.com/Slayer1Dev/arquivo-seguro)** — extensão de navegador que alerta sobre downloads e anexos com extensões disfarçadas.
-- **[claude-skills](https://github.com/Slayer1Dev/claude-skills)** — instruções para delegação entre IAs, segurança de aplicações com LLM e revisão de resultados.
+- **[claude-skills](https://github.com/Slayer1Dev/claude-skills)** — instruções reutilizáveis para delegação entre agentes, segurança de aplicações com LLM e revisão de resultados.
 
 ### Stack
 
@@ -14,4 +16,4 @@ Desenvolvedor backend em São Paulo. Construo automações, integrações de mar
 
 ### Contato
 
-[Preencher formulário de contato →](https://forms.gle/Uc9jnRkfZX61poNP9)
+[Entre em contato →](https://forms.gle/Uc9jnRkfZX61poNP9)
